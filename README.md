@@ -3,17 +3,17 @@
 This is a clone of the famous instagram app that allows you to upload photos like and comment
 ## Author name
 
-Beryl Onyancha
-
+Aimee Pacifique ISHIMWE
 ## Technologies Used
 
-Python 3.6
+Python 3.8.5
 
-Django 2.2.1
+Django 3.2
+
 
 ## Application requirements
 
-1. Ensure you have Python3.6 installed in your computer. you can download it by running this command
+1. Ensure you have Python3 installed in your computer. you can download it by running this command
 
 `$ sudo apt-get update sudo apt-get install python3.6.`
 
@@ -56,18 +56,17 @@ Django 2.2.1
 ## Live link
 
 Use this link to see the web-page
-https://beesinstagramm.herokuapp.com
 
 #### Known bugs
 none
 
 ## Contact Information
 
-Email: berylonyancha@gmail.com
+Email: ishimwefique@gmail.com
 
 
 ## License
 
-MIT License [MIT](https://github.com/berylonyancha/instagram/blob/master/LICENSE)
+MIT License [MIT]
 
-Copyright (c) [2019] [BERYLONYANCHA]
+Copyright (c) [2021] [Aimee Pacifique]
